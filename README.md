@@ -3,13 +3,13 @@ The *Retail Pulse: BlinkIT Sales & Performance Analytics Dashboard* provides a 3
 It enables management and stakeholders to explore key business KPIs — including sales, ratings, and item distribution — through an *interactive Excel-based dashboard*.  
 This project delivers actionable insights to optimize outlet performance, enhance customer satisfaction, and improve inventory strategies.
 
----
+
 
 ## 🎯 Business Requirement
 To conduct a comprehensive analysis of *BlinkIT’s sales, customer satisfaction, and inventory distribution* using various KPIs and visualizations in Excel or Power BI.  
 The goal is to identify key performance trends, analyze product categories, and optimize outlet-level performance.
 
----
+
 
 ## 📊 KPI Requirements
 
@@ -34,7 +34,7 @@ The goal is to identify key performance trends, analyze product categories, and 
 | *Sales by Outlet Location* | Assess the geographic distribution of sales | Funnel/Bar Chart |
 | *All Metrics by Outlet Type* | Provide an overview of all KPIs broken down by outlet type | Matrix Card |
 
----
+
 
 ## 🧮 Data Source
 The dataset contains transactional and outlet-level information from BlinkIT’s grocery sales records.  
@@ -42,7 +42,7 @@ It includes item details, outlet attributes, and sales performance metrics.
 
 > *Data Origin:* Retail dataset inspired by BlinkIT sales data, similar to datasets available on Kaggle.
 
----
+
 
 ## 📑 Data Dictionary
 
@@ -53,16 +53,15 @@ It includes item details, outlet attributes, and sales performance metrics.
 | *Item_Fat_Content* | Fat classification of the item (Low Fat / Regular) |
 | *Item_Visibility* | Percentage visibility of the item across stores |
 | *Item_Type* | Category of the grocery item (e.g., Dairy, Snacks, Frozen Foods) |
-| *Item_MRP* | Maximum Retail Price of the item |
 | *Outlet_Identifier* | Unique ID for each store/outlet |
 | *Outlet_Establishment_Year* | Year when the outlet was established |
 | *Outlet_Size* | Size category of the outlet (Small / Medium / High) |
 | *Outlet_Location_Type* | Tier classification of outlet location (Tier 1, Tier 2, Tier 3) |
 | *Outlet_Type* | Type of store (e.g., Supermarket Type1, Grocery Store, etc.) |
-| *Item_Outlet_Sales* | Total sales revenue generated for that item in that outlet |
+| *Sales* | Total sales revenue generated for that item in that outlet |
 | *Rating* | Average customer satisfaction rating (if applicable) |
 
----
+
 
 ## 🧰 Tools and Technologies Used
 | Tool | Purpose |
@@ -73,7 +72,7 @@ It includes item details, outlet attributes, and sales performance metrics.
 | *Charts & KPIs* | Visual representation of business performance |
 | *Conditional Formatting* | Highlighting performance metrics and trends |
 
----
+
 
 ## ⚙️ Methodology / Steps Followed
 1. *Requirement Gathering:* Collected business goals and KPIs from stakeholders.  
@@ -84,7 +83,7 @@ It includes item details, outlet attributes, and sales performance metrics.
 6. *Visualization:* Built charts, KPIs, and slicers for interactivity.  
 7. *Dashboard Creation:* Designed and formatted a cohesive, interactive dashboard layout.
 
----
+
 
 ## 🤖 Analytical Techniques
 This is a *descriptive analytics* project focusing on sales and performance insights.  
@@ -94,7 +93,7 @@ The key techniques used include:
 - *Trend Analysis:* Evaluating sales over years of establishment.  
 - *Performance Segmentation:* Ranking outlets based on key sales KPIs.
 
----
+
 
 ## 🧠 Key Insights & Conclusion
 - *Tier 3 outlets* recorded the highest total sales (~$472K).  
@@ -105,7 +104,7 @@ The key techniques used include:
 
 ➡️ The dashboard empowers decision-makers to monitor sales, identify trends, and improve outlet performance effectively.
 
----
+
 
 ## 💡 Business Impact
 - Improved visibility into *sales performance and product trends*.  
@@ -113,7 +112,7 @@ The key techniques used include:
 - Identified high-performing outlets and product categories.  
 - Enhanced management’s ability to track KPIs visually and interactively.
 
----
+
 
 ## 🔮 Future Scope & Recommendations
 To enhance this analysis further, the following improvements can be considered:
@@ -122,13 +121,4 @@ To enhance this analysis further, the following improvements can be considered:
 3. *Customer Segmentation* using RFM (Recency, Frequency, Monetary) analysis.  
 4. *Automated Dashboard Refresh* using Power Query or VBA scripts.  
 5. *Data Expansion* by incorporating promotional, pricing, and demographic data for deeper insights.
-
----
-
-## 📂 Deliverables
-- Interactive Excel Dashboard → BlinkIT_Grocery_Dashboard.xlsx  
-- Dashboard Screenshot → assets/dashboard_preview.png  
-- Documentation → README.md
-
----
 

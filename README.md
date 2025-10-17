@@ -1,6 +1,6 @@
 ## 📘 Project Overview
 The *Retail Pulse: BlinkIT Sales & Performance Analytics Dashboard* provides a 360° view of BlinkIT’s operational and sales performance.  
-It enables management and stakeholders to explore key business KPIs — including sales, ratings, and item distribution — through an *interactive Excel-based dashboard*.  
+It enables management and stakeholders to explore key business KPIs — including sales, ratings, and item distribution through an *interactive Excel-based dashboard*.  
 This project delivers actionable insights to optimize outlet performance, enhance customer satisfaction, and improve inventory strategies.
 
 

@@ -94,6 +94,10 @@ The key techniques used include:
 - *Performance Segmentation:* Ranking outlets based on key sales KPIs.
 
 
+## 📰Dashboard
+<img width="1312" height="741" alt="Blinkit-Analysis-Dashboard" src="https://github.com/user-attachments/assets/6013009a-9926-48a4-9814-c669144d5233" />
+
+
 
 ## 🧠 Key Insights & Conclusion
 - *Tier 3 outlets* recorded the highest total sales (~$472K).  
